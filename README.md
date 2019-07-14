@@ -1,2 +1,2 @@
-This is my first keras's project!!!
+This is my first Keras's project!!!
 It run in Google Colab!!!
